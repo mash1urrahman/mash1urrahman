@@ -1,107 +1,105 @@
-Mashiur Rahman
+# Mashiur Rahman
 
-Biotechnology & Biochemistry Graduate | Molecular Biology | Genetics | Bioinformatics | Computational Biosciences
+**Biotechnology & Biochemistry Graduate | Molecular Biology | Genetics | Bioinformatics | Computational Biosciences**
 
 Welcome to my academic and research portfolio!
 
-I am a Biotechnology and Biochemistry graduate from North South University (NSU), Bangladesh, with research interests spanning molecular biology, cancer biology, genetics, and computational biosciences.
+I am a Biotechnology and Biochemistry graduate from **North South University (NSU), Bangladesh**. My academic and research interests include molecular biology, cancer biology, genetics, and computational biosciences.
 
-My academic and research experience combines literature-based investigation, biological data analysis, bioinformatics, and molecular research.
+My experience combines scientific literature investigation, biological data analysis, bioinformatics, research collaboration, and laboratory-based academic training.
 
-Research Interests
+---
 
-Molecular Biology and Genetics
+## Research Interests
 
-Cancer Biology and Molecular Mechanisms of Disease
+- Molecular Biology and Genetics
+- Cancer Biology and Molecular Mechanisms of Disease
+- Computational Biology and Bioinformatics
+- Structural Bioinformatics
+- Protein Structure and Function
+- Molecular Diagnostics and Genomics
 
-Computational Biology and Bioinformatics
+## Research Experience
 
-Structural Bioinformatics
-
-Protein Structure and Function
-
-Molecular Diagnostics and Genomics
-
-Research Experience
-
-Research Assistant — Department of Biochemistry and Biotechnology, North South University
-
-September 2025 – Present
+**Research Assistant**  
+Department of Biochemistry and Biotechnology, North South University  
+*September 2025 – Present*
 
 Working under the supervision of Dr. Md. Morshedul Alam.
 
-Research contributions include:
+**Research contributions:**
+- Scientific literature review and paper screening
+- Biological database exploration
+- Bioinformatics and computational analysis
+- Data analysis and interpretation
+- Scientific writing and research discussions
 
-Scientific literature review and research paper screening
+### Selected Research Projects
 
-Biological database exploration
+**1. TET2 and Acute Myeloid Leukemia (AML)**
 
-Bioinformatics and computational analysis
+Computational investigation of conserved missense variants in the TET2 catalytic domain, focusing on evolutionary conservation, structural effects, and protein–ligand interactions.
 
-Data analysis and interpretation
+**2. BCR-ABL1 Research**
 
-Scientific writing and research discussions
+Research involving BCR-ABL1 data analysis and molecular research in chronic myeloid leukemia.
 
-Selected Research Projects
+*Detailed project documentation and supporting materials will be added separately.*
 
-TET2 and Acute Myeloid Leukemia (AML): Computational investigation of conserved missense variants in the TET2 catalytic domain.
+---
 
-BCR-ABL1 Research: Research involving BCR-ABL1 data analysis and molecular research in chronic myeloid leukemia.
+## Laboratory Experience
 
-Further project details and supporting materials will be added to the respective project repositories.
+Academic and practical exposure across the following areas:
 
-Laboratory Experience
+- Molecular Biology
+- Biochemistry
+- Protein and Enzyme Chemistry
+- Microbiology
+- Cell Biology
+- Immunology
+- Laboratory Instrumentation
 
-Areas of academic and practical laboratory exposure:
+## Academic Background
 
-Molecular Biology
-
-Biochemistry
-
-Protein and Enzyme Chemistry
-
-Microbiology
-
-Cell Biology
-
-Immunology
-
-Laboratory Instrumentation
-
-Academic Background
-
-Bachelor of Science in Biotechnology and Biochemistry
-North South University, Bangladesh
+**Bachelor of Science in Biotechnology and Biochemistry**  
+North South University, Bangladesh  
 Academic requirements completed: Summer 2026
 
-Teaching & Professional Experience
+## Teaching & Professional Experience
 
-Biology and Chemistry Instruction
+**Teaching Assistant and Academic Instruction**
 
-Academic Content Development
+- Biology and Chemistry instruction
+- Academic content development
+- Educational material preparation
 
-Educational and Learning Material Preparation
+**Professional Experience**
+- BeBrainer — Biology and Chemistry Instruction
+- Bondhi Pathshala — Biology and Chemistry Instruction
 
-Professional experience includes teaching and academic activities with BeBrainer and Bondhi Pathshala.
+## Certifications & Achievements
 
-Certifications & Achievements
+- Bioinformatics Training
+- Molecular Biology Training
+- Online Courses
+- Workshops and Seminars
+- Scholarships and Academic Achievements
 
-This section will feature relevant certifications, research training, workshops, academic achievements, and scholarships.
+*Supporting certificates and documentation will be added.*
 
-Portfolio Sections
+---
 
-Research Projects
+## Academic Portfolio
 
-Laboratory Work
+| Section | Documentation |
+|---|---|
+| Research | Projects, literature reviews and manuscripts |
+| Laboratory | Techniques, practical work and reports |
+| Coursework | Relevant academic subjects |
+| Certifications | Training, courses and achievements |
+| Professional Experience | Teaching and academic activities |
 
-Academic Coursework
+## Contact
 
-Certifications & Achievements
-
-Professional Experience
-
-Detailed documentation, figures, reports, and supporting materials will be organized in the respective repositories.
-
-Contact
-
-For academic collaboration, research opportunities, and further discussion, please feel free to connect through GitHub.
+For academic collaboration, research opportunities, and further discussion, please connect with me through GitHub.
